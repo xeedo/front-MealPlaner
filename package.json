@@ -1,0 +1,22 @@
+{
+  "name": "front-mealplaner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xeedo/front-MealPlaner.git"
+  },
+  "author": "pggradzik@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xeedo/front-MealPlaner/issues"
+  },
+  "homepage": "https://github.com/xeedo/front-MealPlaner#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
